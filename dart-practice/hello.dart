@@ -1,4 +1,3 @@
 void main(){
-    var a=2;
-    print("Hello, World!");
+    print("hello, every one");
 }
